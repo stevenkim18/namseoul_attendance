@@ -6,3 +6,7 @@
 - Flutter
 - Google Sheet API
 
+## 프로토 타입
+그려야 함. 피그마 or 노트에 직접
+
+
