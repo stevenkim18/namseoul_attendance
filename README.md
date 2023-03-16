@@ -9,4 +9,14 @@
 ## 프로토 타입
 그려야 함. 피그마 or 노트에 직접
 
+## 작업 기간
 
+## 배운 것들
+
+## 고민한 점들
+
+## 트러블 슈팅
+
+### 기타 url
+테스트 시트
+https://docs.google.com/spreadsheets/d/19mDAbiiNKaM03OyMuznaWtYV3ZXLhtcDnflELBAWbcQ/edit#gid=0
