@@ -1,16 +1,8 @@
 # namseoul_attendance
+## 만든 동기
+교회에서 매번 구글 시트에 접근해서 출석 체크를 하는 것이 불편해서 만들었습니다.
 
-A new Flutter project.
+## 사용 기술 스택
+- Flutter
+- Google Sheet API
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
